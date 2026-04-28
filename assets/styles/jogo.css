@@ -175,3 +175,27 @@ main{
     gap: 55px;
 }
 
+.card{
+    animation: rodar 3s forwards;
+    transition: transform 0.3s linear, backgrouns-image 0.3s linear;
+    animation-delay: 3s;
+}
+@keyframes rodar{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(180deg);
+    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
+
+}
+90%{
+    transform: rotate(180deg);
+     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
+}
+100%{
+    transform: rotate(-180deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
