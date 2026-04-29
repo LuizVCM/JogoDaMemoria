@@ -145,6 +145,45 @@ card25.style.animationDelay = '6.75s';
 
 })
 
+// Lógica de cartas ao clicar
+let primeiraCarta = null;
+let segundaCarta = null;
+
+document.querySelectorAll('.card').forEach(card => {
+  card.addEventListener('click', () => {
+    if (card === primeiraCarta) return;
+
+    // Mostra a carta (você pode trocar por classe CSS)
+    card.classList.add('virada');
+
+    if (!primeiraCarta) {
+      primeiraCarta = card;
+    } else {
+      segundaCarta = card;
+
+      // Verifica se o ID é igual
+      if (primeiraCarta.dataset.id === segundaCarta.dataset.id) {
+        // Par encontrado
+        primeiraCarta.classList.add('acertou');
+        segundaCarta.classList.add('acertou');
+        resetarSelecao();
+      } else {
+        // Não é par → vira de volta depois de 1s
+        setTimeout(() => {
+          primeiraCarta.classList.remove('virada');
+          segundaCarta.classList.remove('virada');
+          resetarSelecao();
+        }, 1000);
+      }
+    }
+  });
+});
+
+function resetarSelecao() {
+  primeiraCarta = null;
+  segundaCarta = null;
+}
+
 
 
 
