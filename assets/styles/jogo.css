@@ -278,329 +278,84 @@ main{
     animation:none;
     animation-delay: 4s;
  }
-
+ #card13{
+    animation:none;
+    animation-delay: 0.5s;
+ }
+  #card14{
+    animation: none;
+    animation-delay: 0.75s;
+ }
+  #card15{
+    animation:none;
+    animation-delay: 1s;
+ }
+  #card16{
+    animation: none;
+    animation-delay: 1.25s;
+ }
+  #card16{
+    animation: none;
+    animation-delay: 1.5s;
+ }
+  #card17{
+    animation:none;
+    animation-delay: 1.75s;
+ }
+  #card18{
+    animation:none;
+    animation-delay: 2.75s;
+ }
+  #card19{
+    animation: none;
+    animation-delay: 3s;
+ }
+  #card20{
+    animation:none;
+    animation-delay: 3.25s;
+ }
+  #card21{
+    animation:none;
+    animation-delay: 3.5s;
+ }
+  #card22{
+    animation: none;
+    animation-delay: 3.75s;
+ }
+  #card23{
+    animation:none;
+    animation-delay: 4s;
+ }
+  #card24{
+    animation:none;
+    animation-delay: 0.5s;
+ }
+  #card25{
+    animation: none;
+    animation-delay: 0.75s;
+ }
+  #card26{
+    animation:none;
+    animation-delay: 1s;
+ }
+  #card27{
+    animation: none;
+    animation-delay: 1.25s;
+ }
+  #card28{
+    animation: none;
+    animation-delay: 1.5s;
+ }
+  #card29{
+    animation:none;
+    animation-delay: 1.75s;
+ }
+  #card30{
+    animation:none;
+    animation-delay: 2.75s;
+ }
+ 
 
 /*Animações*/
-@keyframes rodar1{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar2{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar3{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar4{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar5{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar6{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar7{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar8{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar9{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-
-@keyframes rodar10 {
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar11{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar12{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar10{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar10 {
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar11{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
-@keyframes rodar12{
-0%{
-    transform: rotate(0deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-50%{
-    transform: rotate(360deg);
-    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-
-}
-90%{
-    transform: rotate(360deg);
-     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
-}
-100%{
-    transform: rotate(-360deg);
-    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
-}
-}
-
 
 
