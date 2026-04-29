@@ -119,7 +119,31 @@ main{
     width: 100%;        
     height:100vh;
 }
-.tabela{
+.tabelaF{
+    display:flex;
+    width:100%;
+    height: 100%;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content:center;
+     background-image: url("https://static.wikia.nocookie.net/residentevil/images/f/fc/RE2_remake_-_Imagine_from_official_site4.jpg/revision/latest?cb=20181120191353"); 
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+}
+.tabelaM{
+    display:flex;
+    width:100%;
+    height: 100%;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content:center;
+     background-image: url("https://static.wikia.nocookie.net/residentevil/images/f/fc/RE2_remake_-_Imagine_from_official_site4.jpg/revision/latest?cb=20181120191353"); 
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+}
+.tabelaD{
     display:flex;
     width:100%;
     height: 100%;
@@ -139,9 +163,37 @@ main{
     width: 100%;
     height:100%;
 }
-.tabela .card{
+.tabelaF .card{
     width: 200px;
-    height:300px;
+    height:260px;
+    background-color: blue;
+    margin: 12px;   
+    display:flex;
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: inset 0 0 20px black, 0 0 20px black;      
+}
+.tabelaM .card{
+    width: 200px;
+    height:260px;
+    background-color: blue;
+    margin: 12px;   
+    display:flex;
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: inset 0 0 20px black, 0 0 20px black;      
+}
+.tabelaD .card{
+    width: 150px;
+    height:200px;
     background-color: blue;
     margin: 12px;   
     display:flex;
@@ -174,6 +226,8 @@ main{
     flex-direction:row;
     gap: 55px;
 }
+
+
 
 
  #card1{
@@ -388,6 +442,67 @@ main{
 }
 
 @keyframes rodar9{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+
+@keyframes rodar10 {
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar11{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("https://www.shutterstock.com/image-vector/reset-button-system-vector-illustration-260nw-2646078589.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar12{
 0%{
     transform: rotate(0deg);
     background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
