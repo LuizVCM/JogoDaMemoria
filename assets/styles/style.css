@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    height: 100vh;
+    align-items:center;
+    justify-content:center;
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+    color: white;
+    gap :15px;
+    overflow: hidden;
+}
+.inicial{
+    background-color: white;
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 30px;
+    align-items:center;
+    justify-content: center;
+    flex-direction:row;
+    gap: 40px;
+}
+.inicial button{
+    background-color: black;
+    color: white;
+    width: 20vw;
+    height: 20vh;
+    border: 1px solid yellow;
+    border-radius: 30px;    
+    overflow: hidden;
+    font-size: 2.3rem;
+    text-align: center; 
+    padding-top: 80px;
+    transition: background-color 0.3s linear, height 0.3s linear, text-shadow 0.3s linear;
+}
+.escolha p{
+margin-top: 65px;
+font-size: 1.4rem;
+display:flex;
+flex-direction: column;;  
+
+
+}
+.inicial button:hover{
+    transition: background-color 0.3s linear, height 0.3s linear, text-shadow 0.3 linear ;
+    color: rgba(255, 255, 255, 0.815);
+    text-shadow: 0 0 30px white;
+    height: 50vh;
+}
+.todo{
+    display:flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    animation:none;
+    background-color: black;
+    gap: 15px;  
+}
+/* todo 5s forwards*/
+
+@keyframes todo {
+    0%{
+        transform: scale(100%);
+        opacity: 1;
+    }
+    100%{
+        transform: scale(400%);
+        opacity: 0;
+    }
+}
+
+
+
+
