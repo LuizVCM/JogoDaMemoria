@@ -1,0 +1,606 @@
+@keyframes rodar1{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar2{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar3{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar4{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar5{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar6{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar7{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar8{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar9{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+
+@keyframes rodar10{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+
+@keyframes rodar11{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+@keyframes rodar12{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("../images/interrogacao.jpg");
+}
+}
+
+/*demais cartas*/
+@keyframes rodar13{
+0%{
+    transform: rotate(0deg);
+    background-image: url("../images/interrogacao.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar14{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar15{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar16{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar17{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar18{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar19{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar20{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar21{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar22{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar23{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar24{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar25{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar26{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar27{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar28{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar29{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+@keyframes rodar30{
+0%{
+    transform: rotate(0deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+50%{
+    transform: rotate(360deg);
+    background-image: url("../images/interrogacao.jpg");
+
+}
+90%{
+    transform: rotate(360deg);
+     background-image: url("../images/interrogacao.jpg");
+}
+100%{
+    transform: rotate(-360deg);
+    background-image: url("https://t3.ftcdn.net/jpg/16/07/35/88/360_F_1607358889_QAaFtq7O44XVn7RT4S5Cbc4yOZTwIXGj.jpg");
+}
+}
+
+.card:hover{
+    cursor: pointer;
+}
+
+.virado{
+    transform: rotate(90deg);
+    width: 200px;
+    height:260px;
+    background-color: blue;
+    margin: 12px;   
+    display:flex;
+    background-image: url("../images/Albert-Wesker-RE5-Art.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: inset 0 0 20px black, 0 0 20px black;
+    
+}

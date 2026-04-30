@@ -1,0 +1,13 @@
+@import url(cards.css);
+@import url(jogo.css);
+@import url(style.css);
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Cormorant+Unicase:wght@300;400;500;600;700&family=Nosifer&family=Orbitron:wght@400..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rationale&display=swap');
+
+body{
+    font-family: "Nosifer", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+span{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
